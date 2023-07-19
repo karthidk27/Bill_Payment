@@ -1,4 +1,4 @@
-# Billpayz
+# Billpayz (no real payment gateway has been used)
 ### A simple bill payment demo website
 ## Login
 - Provided required field validation for both username and password
@@ -21,3 +21,4 @@
 ## Make Payment without Logging-in showing client-side alert
 ![withoutlogin](https://github.com/karthidk27/Bill_Payment/assets/130198626/77022ef9-fe99-4eaa-aed0-8e946168fbd8)
 ## Make Payment after Logging-in
+![afterlogin](https://github.com/karthidk27/Bill_Payment/assets/130198626/28e450a7-8909-4555-b335-139d5e707dd0)
