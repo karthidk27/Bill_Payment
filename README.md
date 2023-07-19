@@ -14,3 +14,10 @@
 - Choose operator dropdown list gets value from database dynamically
 - Upon selecting operator dropdown list choose plan dropdown list changes dynamically and the amount is shown
 - provided required field validation for texbox, dropdown list
+## Required field Validation for Mobile Recharge
+
+## validation when text entered instead of number in Enter mobile number textbox
+
+## Make Payment without Logging-in showing client-side alert
+
+## Make Payment after Logging-in
